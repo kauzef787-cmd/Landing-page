@@ -17,3 +17,10 @@ header {
     text-align: center;
 
 }
+header a {
+
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+
+}
