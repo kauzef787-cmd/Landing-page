@@ -32,3 +32,12 @@ header a {
     padding: 100px;
     text-align: center;
 }
+.hero button {
+
+    padding: 10px 20px;
+    font-size: 18px;
+    background: black;
+    color: white;
+    border: none;
+
+}
