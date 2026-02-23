@@ -24,3 +24,10 @@ header a {
     text-decoration: none;
 
 }
+/* hero section */
+
+.hero {
+
+    background: lightblue;
+    padding: 100px;
+    text-align: center;
