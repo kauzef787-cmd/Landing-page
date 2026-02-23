@@ -58,3 +58,13 @@ header a {
     text-align: center;
 
 }
+/* footer */
+
+footer {
+
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+
+}
